@@ -10,4 +10,4 @@ REST APIs, Node, React, Docker, HTML/CSS
 
 gRPC, Probability/Statistics, Serverless
 
-Here's my [resume](martin_camacho_resume.md) and [blog](https://camachom.github.io)!
+Here's my [resume](https://github.com/camachom/camachom/blob/master/martin_camacho_resume.pdf) and [blog](https://camachom.github.io)!
