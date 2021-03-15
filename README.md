@@ -2,11 +2,11 @@ Hi there :wave:
 
 I'm a full stack engineer looking for new opportunities.
 
-### What I know:
+#### What I know:
 
 REST APIs, Node, React, Docker, HTML/CSS
 
-### What I'm learning:
+#### What I'm learning:
 
 gRPC, Probability/Statistics, Serverless
 
