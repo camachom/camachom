@@ -1,6 +1,4 @@
-Hi there :wave:
-
-Check out my [blog](https://camachom.github.io)!
+Hi there :wave:. Check out my [blog](https://camachom.github.io)!
 
 #### What I know:
 
