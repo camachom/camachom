@@ -1,6 +1,6 @@
 Hi there :wave:
 
-I'm a fullstack engineer looking for new opportunities. Here's my [resume](https://github.com/camachom/camachom/blob/master/martin_camacho_resume.pdf) and [blog](https://camachom.github.io).
+Check out my [blog](https://camachom.github.io)!
 
 #### What I know:
 
